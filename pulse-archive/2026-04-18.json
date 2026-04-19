@@ -1,0 +1,210 @@
+{
+  "version": 2,
+  "generated_at": "2026-04-18T01:32:55.304424+00:00",
+  "window_days": 7,
+  "total_items": 10,
+  "opening": "",
+  "status": "enrichment_failed",
+  "items": [
+    {
+      "id": "940bb9793aa5",
+      "title": "New investment funds drive reduction in costs to investors",
+      "summary": "New investment funds drive reduction in costs to investors 03 March 2026 Fund Management Press Releases Risk monitoring The European Securities and Markets Authority (ESMA), the EU financial markets regulator and supervisor, today publishes its 2025 market report on the costs and performance of EU retail investment products. This eighth Costs and Performance report shows that ongoing costs in t...",
+      "source": {
+        "name": "ESMA",
+        "jurisdiction": "EU",
+        "url": "https://www.esma.europa.eu/press-news/esma-news/new-investment-funds-drive-reduction-costs-investors"
+      },
+      "published_at": "2026-04-18T01:30:08.014100+00:00",
+      "date_unknown": true,
+      "score": 0,
+      "score_reason": "",
+      "tags": [
+        "securities",
+        "eu",
+        "mica"
+      ],
+      "weight": 1.2
+    },
+    {
+      "id": "b92eb5e7d5d1",
+      "title": "EU financial markets enter 2026 amid high-risk environment",
+      "summary": "EU financial markets enter 2026 amid high-risk environment 11 March 2026 Press Releases Risk monitoring The European Securities and Markets Authority (ESMA), the EU’s financial markets regulator and supervisor, published today its first risk monitoring report of 2026, outlining the key risks and vulnerabilities in EU financial markets. ESMA finds that risks of market and systemic stress remain...",
+      "source": {
+        "name": "ESMA",
+        "jurisdiction": "EU",
+        "url": "https://www.esma.europa.eu/press-news/esma-news/eu-financial-markets-enter-2026-amid-high-risk-environment"
+      },
+      "published_at": "2026-04-18T01:30:08.013933+00:00",
+      "date_unknown": true,
+      "score": 0,
+      "score_reason": "",
+      "tags": [
+        "securities",
+        "eu",
+        "mica"
+      ],
+      "weight": 1.2
+    },
+    {
+      "id": "229d04036d9c",
+      "title": "ESMA sets out actions to simplify the retail investor journey and make investing more accessible",
+      "summary": "ESMA sets out actions to simplify the retail investor journey and make investing more accessible 12 March 2026 Investor protection Press Releases Simplification and Burden Reduction The European Securities and Markets Authority (ESMA), the EU’s financial markets regulator and supervisor, has published its takeaways from the 2025 Call for Evidence (CfE) on the retail investor journey. Taking int...",
+      "source": {
+        "name": "ESMA",
+        "jurisdiction": "EU",
+        "url": "https://www.esma.europa.eu/press-news/esma-news/esma-sets-out-actions-simplify-retail-investor-journey-and-make-investing-more"
+      },
+      "published_at": "2026-04-18T01:30:08.013699+00:00",
+      "date_unknown": true,
+      "score": 0,
+      "score_reason": "",
+      "tags": [
+        "securities",
+        "eu",
+        "mica"
+      ],
+      "weight": 1.2
+    },
+    {
+      "id": "dfe17b220f09",
+      "title": "SEC confirms exemption for directors and officers of EEA Foreign Private Issuers",
+      "summary": "SEC confirms exemption for directors and officers of EEA Foreign Private Issuers 18 March 2026 Market Abuse Post Trading The United States Securities and Exchange Commission (SEC) has decided to exempt directors and officers of European Economic Area (EEA) foreign private issuers (FPIs) from the reporting requirements under Section 16(a) of the US Securities Exchange Act of 1934. The SEC’s deci...",
+      "source": {
+        "name": "ESMA",
+        "jurisdiction": "EU",
+        "url": "https://www.esma.europa.eu/press-news/esma-news/sec-confirms-exemption-directors-and-officers-eea-foreign-private-issuers"
+      },
+      "published_at": "2026-04-18T01:30:08.013519+00:00",
+      "date_unknown": true,
+      "score": 0,
+      "score_reason": "",
+      "tags": [
+        "securities",
+        "eu",
+        "mica"
+      ],
+      "weight": 1.2
+    },
+    {
+      "id": "4367f005b8e8",
+      "title": "Postponement of the rollout for Commodity Derivatives Weekly Position Reporting",
+      "summary": "Postponement of the rollout for Commodity Derivatives Weekly Position Reporting 27 March 2026 Trading The European Securities and Markets Authority (ESMA), the EU’s financial markets regulator and supervisor, is postponing the rollout of the new solution for Commodity Derivatives Weekly Position Reporting, originally scheduled for 1 April 2026. The decision follows the identification of issues...",
+      "source": {
+        "name": "ESMA",
+        "jurisdiction": "EU",
+        "url": "https://www.esma.europa.eu/press-news/esma-news/postponement-rollout-commodity-derivatives-weekly-position-reporting"
+      },
+      "published_at": "2026-04-18T01:30:08.013451+00:00",
+      "date_unknown": true,
+      "score": 0,
+      "score_reason": "",
+      "tags": [
+        "securities",
+        "eu",
+        "mica"
+      ],
+      "weight": 1.2
+    },
+    {
+      "id": "a9bc699ad7e6",
+      "title": "ESAs spring risk update highlights geopolitical pressures and rising private finance risks",
+      "summary": "ESAs spring risk update highlights geopolitical pressures and rising private finance risks 27 March 2026 Joint Committee Risk monitoring The European Supervisory Authorities (EBA, EIOPA and ESMA – the ESAs) today published their spring 2026 Joint Committee update on risks and vulnerabilities in the EU financial system. The update focuses on the challenges arising from ongoing geopolitical tensi...",
+      "source": {
+        "name": "ESMA",
+        "jurisdiction": "EU",
+        "url": "https://www.esma.europa.eu/press-news/esma-news/esas-spring-risk-update-highlights-geopolitical-pressures-and-rising-private"
+      },
+      "published_at": "2026-04-18T01:30:08.013378+00:00",
+      "date_unknown": true,
+      "score": 0,
+      "score_reason": "",
+      "tags": [
+        "securities",
+        "eu",
+        "mica"
+      ],
+      "weight": 1.2
+    },
+    {
+      "id": "3f8559469079",
+      "title": "ESMA clarifies expectations in the run-up to the launch of EU’s Consolidated Tapes",
+      "summary": "ESMA clarifies expectations in the run-up to the launch of EU’s Consolidated Tapes 01 April 2026 Market data Trading The European Securities and Markets Authority (ESMA), the EU’s financial markets regulator and supervisor, has published Questions and Answers (Q&As) on the onboarding of data contributors to the EU’s Consolidated Tapes (CTs), and on the operational rules for the Consolidated Tap...",
+      "source": {
+        "name": "ESMA",
+        "jurisdiction": "EU",
+        "url": "https://www.esma.europa.eu/press-news/esma-news/esma-clarifies-expectations-run-launch-eus-consolidated-tapes"
+      },
+      "published_at": "2026-04-18T01:30:08.013199+00:00",
+      "date_unknown": true,
+      "score": 0,
+      "score_reason": "",
+      "tags": [
+        "securities",
+        "eu",
+        "mica"
+      ],
+      "weight": 1.2
+    },
+    {
+      "id": "cbf1da094f5b",
+      "title": "ESMA publishes latest edition of its newsletter",
+      "summary": "ESMA publishes latest edition of its newsletter 10 April 2026 ESMA newsletter The European Securities and Markets Authority (ESMA), the EU’s financial markets regulator and supervisor, has published today its latest edition of the Spotlight on Markets newsletter. This edition opens with ESMA’s actions to simplify the retail investor journey and make investing more accessible, setting out steps...",
+      "source": {
+        "name": "ESMA",
+        "jurisdiction": "EU",
+        "url": "https://www.esma.europa.eu/press-news/esma-news/esma-publishes-latest-edition-its-newsletter-42"
+      },
+      "published_at": "2026-04-18T01:30:08.013088+00:00",
+      "date_unknown": true,
+      "score": 0,
+      "score_reason": "",
+      "tags": [
+        "securities",
+        "eu",
+        "mica"
+      ],
+      "weight": 1.2
+    },
+    {
+      "id": "bb3ab75df7c3",
+      "title": "ESMA releases reporting templates and instructions for the Active Account Requirement",
+      "summary": "ESMA releases reporting templates and instructions for the Active Account Requirement 13 April 2026 CCP Market data The European Securities and Markets Authority (ESMA), the EU’s financial markets regulator and supervisor, has published the reporting templates and instructions for the Active Account Requirement (AAR) reporting under European Market Infrastructure Regulation (EMIR 3). The new te...",
+      "source": {
+        "name": "ESMA",
+        "jurisdiction": "EU",
+        "url": "https://www.esma.europa.eu/press-news/esma-news/esma-releases-reporting-templates-and-instructions-active-account-requirement"
+      },
+      "published_at": "2026-04-18T01:30:08.012988+00:00",
+      "date_unknown": true,
+      "score": 0,
+      "score_reason": "",
+      "tags": [
+        "securities",
+        "eu",
+        "mica"
+      ],
+      "weight": 1.2
+    },
+    {
+      "id": "3b7e3c04b737",
+      "title": "ESMA launches a call for evidence on restricted subscription and private credit ratings",
+      "summary": "ESMA launches a call for evidence on restricted subscription and private credit ratings 16 April 2026 Credit Rating Agencies The European Securities and Markets Authority (ESMA), the EU’s financial markets regulator and supervisor, today launched a call for evidence to gather stakeholder views on the purposes, market practices, needs and risks associated with restricted subscription and private...",
+      "source": {
+        "name": "ESMA",
+        "jurisdiction": "EU",
+        "url": "https://www.esma.europa.eu/press-news/esma-news/esma-launches-call-evidence-restricted-subscription-and-private-credit-ratings"
+      },
+      "published_at": "2026-04-18T01:30:08.012875+00:00",
+      "date_unknown": true,
+      "score": 0,
+      "score_reason": "",
+      "tags": [
+        "securities",
+        "eu",
+        "mica"
+      ],
+      "weight": 1.2
+    }
+  ]
+}
