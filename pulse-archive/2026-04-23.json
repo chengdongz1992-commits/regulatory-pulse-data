@@ -1,0 +1,200 @@
+{
+  "version": 2,
+  "generated_at": "2026-04-23T01:34:49.481978+00:00",
+  "window_days": 7,
+  "total_items": 10,
+  "opening": "",
+  "status": "enrichment_failed",
+  "items": [
+    {
+      "id": "9a04b6cb44b4",
+      "title": "Tesla lifts 2026 spending plans by a quarter as Musk funds AI and robotic dreams - Reuters",
+      "summary": "Tesla lifts 2026 spending plans by a quarter as Musk funds AI and robotic dreams Reuters",
+      "source": {
+        "name": "Reuters",
+        "jurisdiction": "-",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdG1nY0hsQks1UXZDNmhhLVY2cFg1TmRQeGlrM2M1QUpMUzdSel90UGJHYlhPQ1pzLW8ybkFLTVJmcjRNeHdvalUzYVU0T1lYUWpDSVBZMllPUjJGM1FPWW5PX3YyQzBkek9KdldBcDdiUWxZcEZrWlY1WVNjbU9wMFIwcWRTcV95WjlQN0FsV0hySk4zQzA1bGZ4NlRKV25TX25pbmc1bHE1dlJOVDRpeQ?oc=5"
+      },
+      "published_at": "2026-04-22T23:30:28+00:00",
+      "date_unknown": false,
+      "score": 0,
+      "score_reason": "",
+      "tags": [
+        "regulation",
+        "media"
+      ],
+      "weight": 0.7
+    },
+    {
+      "id": "a7e19733c8b2",
+      "title": "De La Hoya, Ali's grandson warn US lawmakers against boxing law overhaul - Reuters",
+      "summary": "De La Hoya, Ali's grandson warn US lawmakers against boxing law overhaul Reuters",
+      "source": {
+        "name": "Reuters",
+        "jurisdiction": "-",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYV9UWURfbHpkVHFhMWVzY1lGWHBMdk83YS03RTNYT0xtd1VjaWlDX2ZGR0xHZzVCU29PbVB1ZjBnWWlJbzZWbzR3X3FtdF9DLUotbms2WTJDWmtVcEk0QWt4RmVPN1JqTEROUEs3VWNYMnRqTUs2TllCWHVvMURaSFI3WWhUdzZIamJCcVh4QXpZT3Rjc211c3FXSHJlTFlXeTgyMXhyVVh6THZDbm9DR0VHRQ?oc=5"
+      },
+      "published_at": "2026-04-22T22:22:12+00:00",
+      "date_unknown": false,
+      "score": 0,
+      "score_reason": "",
+      "tags": [
+        "regulation",
+        "media"
+      ],
+      "weight": 0.7
+    },
+    {
+      "id": "3b353eae1362",
+      "title": "Trump envoy seeks to replace Iran with Italy in upcoming World Cup, FT reports - Reuters",
+      "summary": "Trump envoy seeks to replace Iran with Italy in upcoming World Cup, FT reports Reuters",
+      "source": {
+        "name": "Reuters",
+        "jurisdiction": "-",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQm45aVJMRGdYRzVjRHdrOE9LNWc1ZnZSTTlSc3l5a1ZHQWMzQjVRX2JWYWRXNUVoanNUZ0lSMk9IT2RvVnBoS2hoMDFXSTBMTl8zcl9RZEMxRWE1SlVhMUh1MWhrT2hjVVZ4ckdVNUpER0lMczRVOWxCdk9oLUhETjZtLVdzSm14cEo0T0lfM3pyV0tmWWVCTWd3YmpPaXpkWEY0bm5oYmkxdHFLNTlOUzhjSnZNeVk?oc=5"
+      },
+      "published_at": "2026-04-22T21:48:22+00:00",
+      "date_unknown": false,
+      "score": 0,
+      "score_reason": "",
+      "tags": [
+        "regulation",
+        "media"
+      ],
+      "weight": 0.7
+    },
+    {
+      "id": "f91daa6f2bbc",
+      "title": "Lululemon says it picks former Nike executive as next CEO - Reuters",
+      "summary": "Lululemon says it picks former Nike executive as next CEO Reuters",
+      "source": {
+        "name": "Reuters",
+        "jurisdiction": "-",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPejBidUFuNDg1NkoxS21DdFk4VTdGYUJ2SHY2MkZaaW5hbkxZdnExa2Ewb1NFdDM5NWlZVVFNalR0UFhQSFdVMW9xTTg2SGhvc3BWeFBwYk5OczdqcEJ6cFFGSV96ZklWSzc5WTdacXFBeWU0d1FIRVc3ZkJzWXRhY1pxcXA0bGhrdkMxVjA4QW5ZZDZRUzdtOHdxZlFseTZWU2gwTnRPWWpVbi0yZkR4dUtOSUZVOFFXNkY3VnAzVkg2Q3NsRGhyN0xTZ2t0X1U0?oc=5"
+      },
+      "published_at": "2026-04-22T21:36:11+00:00",
+      "date_unknown": false,
+      "score": 0,
+      "score_reason": "",
+      "tags": [
+        "regulation",
+        "media"
+      ],
+      "weight": 0.7
+    },
+    {
+      "id": "bafe44b81af3",
+      "title": "Athleisure company Lululemon appoints Heidi O'Neill as new top boss, WSJ says - Reuters",
+      "summary": "Athleisure company Lululemon appoints Heidi O'Neill as new top boss, WSJ says Reuters",
+      "source": {
+        "name": "Reuters",
+        "jurisdiction": "-",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPLVhhd09uUHhxdTF5ekdOQ1RNZTkxU0xMRGZYaVlxQ1JLeWM5Sm5FMDZQWlJqYjNPbzI4NnBOQ0xSVEdIYjVDa2tmN0hCQjR6VUl0bm5JRHdCR2FIeDdYLVFyRHMxQlVvb1lSdW1DUXNXUExwTU5LUzZQV2Z2OExmamVJQVEtR0JxNDZTSXIyXzR1cXJnTlhaeFNrT0tTVGZJUFp0WW0xckN2RWw4Y0ZmQkZrbFRveWcybDVuYjY4a3hUN3MyUEdzV3Bhd3BIWWVSM25KNGJvRW9XZw?oc=5"
+      },
+      "published_at": "2026-04-22T20:30:26+00:00",
+      "date_unknown": false,
+      "score": 0,
+      "score_reason": "",
+      "tags": [
+        "regulation",
+        "media"
+      ],
+      "weight": 0.7
+    },
+    {
+      "id": "5e3731202a0c",
+      "title": "Merck to partner with Google Cloud on AI initiatives - Reuters",
+      "summary": "Merck to partner with Google Cloud on AI initiatives Reuters",
+      "source": {
+        "name": "Reuters",
+        "jurisdiction": "-",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNX2xKSGxmOUFlY2FBdkRKT3A4UDlyOHp4YVNqZzh4VGozRnFaS2ppdlJrSTdJcXBpT3lMSTJmNzBIVlo0RE9XOTItTDV4WmVEWjM0N2t1b0p2U2w1bjRTM2lqeHVCdGtWODVjdnZvci1MQmE0UFFXSWVuRUpJREFHVnR1eExwOG1GTjhXd1h5blFDVlZaendvQU1UanV6enN2?oc=5"
+      },
+      "published_at": "2026-04-22T19:55:16+00:00",
+      "date_unknown": false,
+      "score": 0,
+      "score_reason": "",
+      "tags": [
+        "regulation",
+        "media"
+      ],
+      "weight": 0.7
+    },
+    {
+      "id": "fa5cc31d8fc8",
+      "title": "JPMorgan hires two top technology bankers from Bank of America, memo says - Reuters",
+      "summary": "JPMorgan hires two top technology bankers from Bank of America, memo says Reuters",
+      "source": {
+        "name": "Reuters",
+        "jurisdiction": "-",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOV3AxOGE0Y0E0akVhMEotU3RUNUJOa2htYjZpaFJtRTFYcVlyMnBjQ0FjSDBpYnNPc19oOGQyMGVpXzRhUkRwb2RsZU1GQ2tPSjVYWVJ6UGU2SzZGYlFDQl9DdHZOMmZuVmFrekdOaUVtaUtiNzlVa1lUWFBaejRZcVFMVUZzTUVQcGxVZmJQbWh4bUNYVzlaa2ZMNEFmNWFDd19wdXZ2UmFQdWxTcDJmRmQ4QkhHY3Fu?oc=5"
+      },
+      "published_at": "2026-04-22T19:45:43+00:00",
+      "date_unknown": false,
+      "score": 0,
+      "score_reason": "",
+      "tags": [
+        "regulation",
+        "media"
+      ],
+      "weight": 0.7
+    },
+    {
+      "id": "bb6e914d7234",
+      "title": "Exclusive: Ghana directs Newmont, AngloGold, Zijin to shift mining ops to local firms by December, sources say - Reuters",
+      "summary": "Exclusive: Ghana directs Newmont, AngloGold, Zijin to shift mining ops to local firms by December, sources say Reuters",
+      "source": {
+        "name": "Reuters",
+        "jurisdiction": "-",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORDhBM1k3T2pmemRYUWdqcG14cFpTZTlhYXM4NTRFcGpDWjR5bVVuamZKOWxYN1ZXMV93dDk2d1B5eDlNUUZXVzR6Y3BSanhfZmgzcDBRX0dvQW5rcXEzWGhFQjY2STRfa2s0cmtDUzBOS0RPMWFhQzlqT196aUhaamFDRjlGUlVWQ3pkRFY2T2s5ODM2eEs0SnYyamh0X0t3Vi14WTNWaVE3dXFjeGsxc3FNMU9ZeDAwRmxkNjg3Mi1hQWpCc2c?oc=5"
+      },
+      "published_at": "2026-04-22T18:22:15+00:00",
+      "date_unknown": false,
+      "score": 0,
+      "score_reason": "",
+      "tags": [
+        "regulation",
+        "media"
+      ],
+      "weight": 0.7
+    },
+    {
+      "id": "0838401bde74",
+      "title": "Bessent says Gulf, Asian allies request swap lines, UAE and US would benefit from one - Reuters",
+      "summary": "Bessent says Gulf, Asian allies request swap lines, UAE and US would benefit from one Reuters",
+      "source": {
+        "name": "Reuters",
+        "jurisdiction": "-",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVzVydFN0cG00a0JtTmhBX0NZTkRpQ3RJeUZ1VFJjaGVtMzR6UzFicEdmTXpJaEZYV09oRG45M3dIaVpTeHRSQVBUUHdfblRrNWhmQWNHLVBhWmpwOVlGNUJZeXlOY1lIazFOVG5KOGhreGdlY01QbENHclJieVFRSWtkNkNybnREZVZUZnl5dXJhZVo5MDVRb2FLV1FfVXFlaFVNRW1lRDBiaEdxb1dHT2poZUxUZkRib2JVaXo2SWtaaThfd0xj?oc=5"
+      },
+      "published_at": "2026-04-22T18:20:08+00:00",
+      "date_unknown": false,
+      "score": 0,
+      "score_reason": "",
+      "tags": [
+        "regulation",
+        "media"
+      ],
+      "weight": 0.7
+    },
+    {
+      "id": "5711b91a92ed",
+      "title": "Fannie, Freddie to accept 'predictive' credit scores, US officials say - Reuters",
+      "summary": "Fannie, Freddie to accept 'predictive' credit scores, US officials say Reuters",
+      "source": {
+        "name": "Reuters",
+        "jurisdiction": "-",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNX1F1M2pMOXIwejVGRXI0Rkx3WXhtTUtieHpKczVncUtDQjN2VnFMOEZaVTVfajIybjA3RVFmTnZCYmE2M3FVN3lhdXpOeW1mTzEzR3QxYWt2Y0o5YndReFFZdjEwaHp0NkNzWlotczBVYl9veUJ6TnR0RnZUSFYtTGhPOUZpaU5CMVFZUHJWeHpUV19iaHhfYkhrX1ZPdWpxYW1hZktfTi1id0w0ajBPM0JVQ0U4QTUxRUExRFc0VjBVT20yblpKM0w0eFNabGI0TTZLSnZ3?oc=5"
+      },
+      "published_at": "2026-04-22T18:18:04+00:00",
+      "date_unknown": false,
+      "score": 0,
+      "score_reason": "",
+      "tags": [
+        "regulation",
+        "media"
+      ],
+      "weight": 0.7
+    }
+  ]
+}
