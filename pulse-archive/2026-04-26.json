@@ -1,0 +1,200 @@
+{
+  "version": 2,
+  "generated_at": "2026-04-26T01:32:16.868634+00:00",
+  "window_days": 7,
+  "total_items": 10,
+  "opening": "",
+  "status": "enrichment_failed",
+  "items": [
+    {
+      "id": "9059458768f9",
+      "title": "Trump bought at least $51 million in bonds in March, disclosure shows - Reuters",
+      "summary": "Trump bought at least $51 million in bonds in March, disclosure shows Reuters",
+      "source": {
+        "name": "Reuters",
+        "jurisdiction": "-",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOX0xRdkVkVzZzc0JxU0pRN0d5V1R0dU5xWlJZdGhsQWFoLVBHZmctczgwNndnRWNRRkd6VjFfenEza1RmRDZSbDlMS2p4SjBTUUUtendkRTA2V2VORFZYOGt1T3N0TFdNanF5MzBFSjJ3M1JqLXFyU3hUS0xvYThmWWROd2JnS0RuSlcyTTJ5dDZ6R09FR1NQaU5TZ3o1cnlrN0g0X1lfTGpQMHl1TTExcw?oc=5"
+      },
+      "published_at": "2026-04-25T17:37:43+00:00",
+      "date_unknown": false,
+      "score": 0,
+      "score_reason": "",
+      "tags": [
+        "regulation",
+        "media"
+      ],
+      "weight": 0.7
+    },
+    {
+      "id": "79736496a342",
+      "title": "Macron reaffirms efforts to reopen Strait of Hormuz, as TotalEnergies warns of energy shortages - Reuters",
+      "summary": "Macron reaffirms efforts to reopen Strait of Hormuz, as TotalEnergies warns of energy shortages Reuters",
+      "source": {
+        "name": "Reuters",
+        "jurisdiction": "-",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSEZXMGhsMm9keUhncFl2bTh2R3dxLTBaZjF5b3dTbVhzcDdHRDVTclJVUHJrbGRpYWZObnljUmM4SWcwcjhMUy0tNVVMM2h3enpqRUhtVU03Y0MzV3FaU1BSVTNPLUpQYk9ZQkg3T3hRSlFHdlRjNVE2QXc2c3VVU25VNEZ5Rks4T1lZSGNfLThrWWRDekRhQTBMTktDSkY5aGE0TGtDREVGV2Z6TUNUcUItc05MTFBLM096aFI5Ym52UQ?oc=5"
+      },
+      "published_at": "2026-04-25T12:41:43+00:00",
+      "date_unknown": false,
+      "score": 0,
+      "score_reason": "",
+      "tags": [
+        "regulation",
+        "media"
+      ],
+      "weight": 0.7
+    },
+    {
+      "id": "2b8cc0aaa1cc",
+      "title": "France's Macron says EU mutual assistance clause is unambiguous - Reuters",
+      "summary": "France's Macron says EU mutual assistance clause is unambiguous Reuters",
+      "source": {
+        "name": "Reuters",
+        "jurisdiction": "-",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNR2Z3bDVHNk1LWkl4dVh1VW9Gem5TSE9kN2RhNURSVWtSa0Y4R3ItWnRpdFJmVzVGcXVwWkNOLUZjaWd6Tm1XY1VmQmd0b3lsVjRsY0RFc2t6YWhZZ01qdlpCOVh0UmNxWG14LUw2S290akhicm5TaVNhTGxqd3dIY181OGtFNmd0RXh3NHNicjVPZlNoX21kazRfWFJxSWhfOURGZWRrZklvQVpkWm5hWnR5NlN5dw?oc=5"
+      },
+      "published_at": "2026-04-25T11:47:01+00:00",
+      "date_unknown": false,
+      "score": 0,
+      "score_reason": "",
+      "tags": [
+        "regulation",
+        "media"
+      ],
+      "weight": 0.7
+    },
+    {
+      "id": "dce406665ce6",
+      "title": "OpenAI chief apologizes for not reporting shooting suspect to police - Reuters",
+      "summary": "OpenAI chief apologizes for not reporting shooting suspect to police Reuters",
+      "source": {
+        "name": "Reuters",
+        "jurisdiction": "-",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQb1JZNVl1eUZzYi10MjhFeEFWbTJMUXpfRmVDWVlsS1VtTlJVRmpsUnpvcE5mM2h6ak9yQ053UHhHRlhSa0V1Z0xQWTZIeFF5djBMMWdrTUpKWll5RFhKZ19YOS1zWDRyRkg1TGtERDBqa1JLZXJYajV6T3lHSm1adHlmeGlDb1pWUzRRX2U1Snk1dDdSbDJhWjZDR04zVVIyZTlNc3dFcEc1Y1M3bU9mX29YUE1VTms3bUx5MzNhNEJISy1qR0E?oc=5"
+      },
+      "published_at": "2026-04-25T08:16:11+00:00",
+      "date_unknown": false,
+      "score": 0,
+      "score_reason": "",
+      "tags": [
+        "regulation",
+        "media"
+      ],
+      "weight": 0.7
+    },
+    {
+      "id": "a0d75d6a62d7",
+      "title": "India minister urges market regulator to boost global consultations, tackle cyber risks - Reuters",
+      "summary": "India minister urges market regulator to boost global consultations, tackle cyber risks Reuters",
+      "source": {
+        "name": "Reuters",
+        "jurisdiction": "-",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSUZHUU1ucEprZ25lVVlDNFdWNWF0dzBTbXlZZU1OaEhVLTdnYjhZLUc2bVJPS0hlTmNKZzhoYUxFeUhiRTV6RWdGYXAwcHhPRDUyRjFVMlBNdmJEeGx4bjlNbkctNWluTjNHaC1TQ21WZkJhdlgtQXloek1PWmVicDkzaDhOSUJuRE5UODRTbVNHOUtCWGJtamlfZGNDZ2VLZmhpbE5PbWdpaGVGWVE0ZkoxUkU0OWRqOWFQZUt1UjYzaGM?oc=5"
+      },
+      "published_at": "2026-04-25T07:22:11+00:00",
+      "date_unknown": false,
+      "score": 0,
+      "score_reason": "",
+      "tags": [
+        "regulation",
+        "media"
+      ],
+      "weight": 0.7
+    },
+    {
+      "id": "144faec235e4",
+      "title": "Fresh EU sanctions set to hit condensate imports from Russia's Yamal LNG - Reuters",
+      "summary": "Fresh EU sanctions set to hit condensate imports from Russia's Yamal LNG Reuters",
+      "source": {
+        "name": "Reuters",
+        "jurisdiction": "-",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWUtqZ2xGSXhMOXRucUZabkV5WUxKSjNESkxNX3p6OG1CZFQxYktMcHVLX05jZU53R0FUUDBnbGFBMm9KTks0bkhybjY5ZXhMRm5FZ2lDNGhKcHNJLWQ0ajlSM1MxZUJNMzJMeHpYMEp3TGQ2aEFGNnJmMXJxTVB5Y2dLYV9rUnhtLV9peUZPVXNXSnc1c294WXdkc2RMeGZzVEtwaW5yYi1IYlRkdTBSVF9od1pMdw?oc=5"
+      },
+      "published_at": "2026-04-25T06:55:00+00:00",
+      "date_unknown": false,
+      "score": 0,
+      "score_reason": "",
+      "tags": [
+        "regulation",
+        "media"
+      ],
+      "weight": 0.7
+    },
+    {
+      "id": "e95bc75dfa65",
+      "title": "Turkey floats new investment law including exporters' tax cut - Reuters",
+      "summary": "Turkey floats new investment law including exporters' tax cut Reuters",
+      "source": {
+        "name": "Reuters",
+        "jurisdiction": "-",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMUY2ZVJjWFYzajF5M3VyNTNjX2IzUTdyMHBnMVdSWmNFYWhjb2JSZGJqUVBfTFFPeDE5WjVZM3BrOHIyVnBwYmFNUFV2eTFnMkFLNVpvc2h4Zi1TaWFqeThib0M5bC10Q3E4OWlwc3lQWEQtdERXdlNQWHBMOUJzWS05MW9Cd1FLNXByb0p5b0Jhb1d5UnJUQml4aHcxS2F1SjlkUlMtbGI0eVd6aThSQV9CMkk?oc=5"
+      },
+      "published_at": "2026-04-25T06:44:00+00:00",
+      "date_unknown": false,
+      "score": 0,
+      "score_reason": "",
+      "tags": [
+        "regulation",
+        "media"
+      ],
+      "weight": 0.7
+    },
+    {
+      "id": "668fa5ddbff4",
+      "title": "Wildfires abound in US Southeast, Georgia suffers record property losses - Reuters",
+      "summary": "Wildfires abound in US Southeast, Georgia suffers record property losses Reuters",
+      "source": {
+        "name": "Reuters",
+        "jurisdiction": "-",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOFJCMHVrX0tMVXA3VGFGOGNyWVc4X21taTRQSGNzZkhObzdXQmtpMzVvSnlQZXhXZndaTHcyaVRjbllCX3dLS2FISjNiVzMzNzN2bzVOS2xUZG1TN1c1d1h0TzY5dFluY2ZOdHR1S0hUekZYS3NYSUpjTGk4TlViS0FNWWpIWFEwVnNscEcyaUkxQWtLWnRLc1NySF90QVpiVU5qOW9YYXNjT3hHak10V2VnamdRVTg5Y0x5aS1jdXJ2TkE?oc=5"
+      },
+      "published_at": "2026-04-25T04:57:00+00:00",
+      "date_unknown": false,
+      "score": 0,
+      "score_reason": "",
+      "tags": [
+        "regulation",
+        "media"
+      ],
+      "weight": 0.7
+    },
+    {
+      "id": "78b3acc7cd62",
+      "title": "Romania finds parts of second drone after overnight Russian attack on Ukraine - Reuters",
+      "summary": "Romania finds parts of second drone after overnight Russian attack on Ukraine Reuters",
+      "source": {
+        "name": "Reuters",
+        "jurisdiction": "-",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNT0pJd1RjR0ZNTjF5eTBlV1VCY2pFeENKdmszOHQwM2xsSlN1ejdQWkJReDVrR2NWSUVhYTVSMTJ1Nmc3RjNsNGgxVnZ5VHQwRTRnV01qb0p1QU1UTXhEQllYb2gzS1UzRlVCU2JzYnhWbmJxSGdWbFYwbGUxRk04NVYzZDRxaG9EMXBBWXZxd1lxLTQ4cW1IU0FTNlR2SlRYY2dkbTNQbnZYVDVqUWZ0blNRQWFpSVB1QkpHd1kzUkNHSWRCdUZwdENyUk52b01ObGcxZ2xn?oc=5"
+      },
+      "published_at": "2026-04-25T04:54:00+00:00",
+      "date_unknown": false,
+      "score": 0,
+      "score_reason": "",
+      "tags": [
+        "regulation",
+        "media"
+      ],
+      "weight": 0.7
+    },
+    {
+      "id": "070ea4e764f5",
+      "title": "Firefighters in northern Japan struggle to contain blazes as over 3,000 people evacuated - Reuters",
+      "summary": "Firefighters in northern Japan struggle to contain blazes as over 3,000 people evacuated Reuters",
+      "source": {
+        "name": "Reuters",
+        "jurisdiction": "-",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeTd3OGt6YWVCUllCdVowSUY4dFhnMS1kMW5zbVQwdklTeE9FT2lhejJNcVZoVk9qRmJGcnJBTi0xamVqYU5CMkpPRDVYNFhWUTNYNlIzbjhFSy04dWlGaXEyUXFWOXlOejlxSm52TzZJcU9NLWw1WnZ2Vl9mdXdEUWF4YVZfamlLS3ltUGQ5Rm50VXFyWEw4QlRuTFlFZW1VYkNfSVpWLXVGRlNGY01IRFY2ZjgwYU5BRXh5dWVGck5kcE9HbXBFS2ZR?oc=5"
+      },
+      "published_at": "2026-04-25T04:30:00+00:00",
+      "date_unknown": false,
+      "score": 0,
+      "score_reason": "",
+      "tags": [
+        "regulation",
+        "media"
+      ],
+      "weight": 0.7
+    }
+  ]
+}

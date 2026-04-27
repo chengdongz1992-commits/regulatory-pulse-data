@@ -1,0 +1,203 @@
+{
+  "version": 2,
+  "generated_at": "2026-04-25T01:32:54.151469+00:00",
+  "window_days": 7,
+  "total_items": 10,
+  "opening": "",
+  "status": "enrichment_failed",
+  "items": [
+    {
+      "id": "3a295159686d",
+      "title": "Joint Committee annual report highlights digitalisation, cyber resilience and sustainable finance as key priorities of 2025",
+      "summary": "Joint Committee annual report highlights digitalisation, cyber resilience and sustainable finance as key priorities of 2025 24 April 2026 Joint Committee The Joint Committee of the European Supervisory Authorities (EBA, EIOPA and ESMA – the ESAs) today published its Annual Report for 2025, setting out the main priorities and achievements of its cross-sectoral work over the past year. In 2025, t...",
+      "source": {
+        "name": "ESMA",
+        "jurisdiction": "EU",
+        "url": "https://www.esma.europa.eu/press-news/esma-news/joint-committee-annual-report-highlights-digitalisation-cyber-resilience-and"
+      },
+      "published_at": "2026-04-25T01:30:08.093719+00:00",
+      "date_unknown": true,
+      "score": 0,
+      "score_reason": "",
+      "tags": [
+        "securities",
+        "eu",
+        "mica"
+      ],
+      "weight": 1.2
+    },
+    {
+      "id": "c4c9fd9d7074",
+      "title": "CEOs in the PMO: Mark Carney’s Inner Circle Gives Business More Power in Ottawa - Bloomberg.com",
+      "summary": "CEOs in the PMO: Mark Carney’s Inner Circle Gives Business More Power in Ottawa Bloomberg.com",
+      "source": {
+        "name": "Bloomberg",
+        "jurisdiction": "-",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTDdDVHRnbU1oU3lOY0wyOFpwTmhha2ZxVU1jMGxhOC1sNms0Sk9iVWNrQU9rQUtQa3hhWjFldnJEZ1UzdXFUcHFhc1lGZWtJaHVhclRxcDFIaFp3SVFHQlNGNXFWeElMYVJCVkVEQnhFU1V5RlJEU1ZSZVlWR3phNVg2aW9ST0RIQ0wyaEdBd0RyOUZvSVRaMjFiajA3Uk9oTzJ4OHk4OEhQRGxaV1hEYQ?oc=5"
+      },
+      "published_at": "2026-04-25T00:17:45+00:00",
+      "date_unknown": false,
+      "score": 0,
+      "score_reason": "",
+      "tags": [
+        "regulation",
+        "media"
+      ],
+      "weight": 0.7
+    },
+    {
+      "id": "1c070497e551",
+      "title": "Lincoln International targets rare investment bank IPO in US markets - Reuters",
+      "summary": "Lincoln International targets rare investment bank IPO in US markets Reuters",
+      "source": {
+        "name": "Reuters",
+        "jurisdiction": "-",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWnpPeC1OWGxPTElQZ2FablZlZTF2Tm94bGhfUzV0anBFbXM2RlBTVFAwZzVuQnJYSFk5QXgxOGgzZm5uSGxDMmYtcFNjTWdhUE1GejNxX3RqZlRJNDZIaHlnYVNfVkZ2ZGVaT3c0RURsM19OV25zMUJiaThuWkdnTloxRjFYaVpmOVhUby1qejRnVlc0TTBIem1QclBHLTlIS2FMSTFR?oc=5"
+      },
+      "published_at": "2026-04-24T23:01:24+00:00",
+      "date_unknown": false,
+      "score": 0,
+      "score_reason": "",
+      "tags": [
+        "regulation",
+        "media"
+      ],
+      "weight": 0.7
+    },
+    {
+      "id": "7b56537b3ee5",
+      "title": "Exclusive: US soldier charged with Maduro bets was blocked from opening account on Kalshi, source says - Reuters",
+      "summary": "Exclusive: US soldier charged with Maduro bets was blocked from opening account on Kalshi, source says Reuters",
+      "source": {
+        "name": "Reuters",
+        "jurisdiction": "-",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQeW52SGZ1WmdfZnlBbTNiSDd5VGZTOVlKcC1xZW9waWVpci1WNy1uT0hqci03Q3YzdE1wcThmaUJCM00xR2lQeV9nS2lYWC1mMzVpSHJ0RUx5bTFUZkd3UkNvWUQwMWFmNnpqaHR6MnhuRnR1cWZyT25lOURIeUNxZUVvM3dreklWY3RGZVFTZGVUczVYcHVBSVRGNnd6LVVGQ0wwTUt0WTkxdzd5Vnd5czVhXzAyd2JPNFB6dnFhWEJqeGVaYkpCTzFR?oc=5"
+      },
+      "published_at": "2026-04-24T21:18:17+00:00",
+      "date_unknown": false,
+      "score": 0,
+      "score_reason": "",
+      "tags": [
+        "regulation",
+        "media"
+      ],
+      "weight": 0.7
+    },
+    {
+      "id": "9bc856ca4ec6",
+      "title": "Federal Reserve Board announces approval of application by OceanFirst Financial Corp.",
+      "summary": "Federal Reserve Board announces approval of application by OceanFirst Financial Corp.",
+      "source": {
+        "name": "Federal Reserve",
+        "jurisdiction": "US",
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260424a.htm"
+      },
+      "published_at": "2026-04-24T20:00:00+00:00",
+      "date_unknown": false,
+      "score": 0,
+      "score_reason": "",
+      "tags": [
+        "banking",
+        "us"
+      ],
+      "weight": 1.0
+    },
+    {
+      "id": "4f7f14b602ba",
+      "title": "Federal Reserve Board announces approval of application by Banco de Credito del Peru",
+      "summary": "Federal Reserve Board announces approval of application by Banco de Credito del Peru",
+      "source": {
+        "name": "Federal Reserve",
+        "jurisdiction": "US",
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260424b.htm"
+      },
+      "published_at": "2026-04-24T20:00:00+00:00",
+      "date_unknown": false,
+      "score": 0,
+      "score_reason": "",
+      "tags": [
+        "banking",
+        "us"
+      ],
+      "weight": 1.0
+    },
+    {
+      "id": "8d28a5c94454",
+      "title": "Trading firm Jane Street doubles annual revenues to $40bn",
+      "summary": "Record haul surpasses investment banks that once dominated Wall Street",
+      "source": {
+        "name": "FT",
+        "jurisdiction": "-",
+        "url": "https://www.ft.com/content/c889e07e-db83-499a-93d2-c2a8c83766cb"
+      },
+      "published_at": "2026-04-24T18:50:54+00:00",
+      "date_unknown": false,
+      "score": 0,
+      "score_reason": "",
+      "tags": [
+        "finance",
+        "regulation",
+        "media"
+      ],
+      "weight": 0.7
+    },
+    {
+      "id": "e03e15d5ca26",
+      "title": "Brazil aims to regulate critical minerals without tax breaks, finance minister says - Reuters",
+      "summary": "Brazil aims to regulate critical minerals without tax breaks, finance minister says Reuters",
+      "source": {
+        "name": "Reuters",
+        "jurisdiction": "-",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQajlSSzNUN1B0anFRUEJQendvaEhCVlZhcU01NWx6LVkwMGRvU29sTXFpZ295UGE4ZEdPTW9XU3ZNQi1udGxwQ3REQ1JyRVVoQ3ZmZjcxdXcwWG1Tb2VIZTZVMFVMcHJ3NnBSSUM4TlhrYmtxZUF4RXVZTTRLcTJyVlctNndnaVhXZ1ZIYk43Um8tQTJfYUFKdG5kQVFpX3VDN1R3NVdBbXktRWJ2TFB2MVZJRDBmR0NKcEFPOG45SVFFZEd2SkU2RVpLemo?oc=5"
+      },
+      "published_at": "2026-04-24T18:13:42+00:00",
+      "date_unknown": false,
+      "score": 0,
+      "score_reason": "",
+      "tags": [
+        "regulation",
+        "media"
+      ],
+      "weight": 0.7
+    },
+    {
+      "id": "4934eb41f078",
+      "title": "Swiss National Bank defends investment approach after calls to ditch Palantir stake - Reuters",
+      "summary": "Swiss National Bank defends investment approach after calls to ditch Palantir stake Reuters",
+      "source": {
+        "name": "Reuters",
+        "jurisdiction": "-",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNeldrSzNJY0FZbGY2Mnk4d09NbzE5M1ZOZnBpUUpCd2hOTGM4S056VFRLTXR5eldLc2xnYzJDVnhGVnVPLWdsU1lSenF1bi1jbl9CdHFxSnB4OS1LMUhrTjR2TnduSExtcXR4WmhoaC1TbDgwdFdfeTVmMkVBTndnc0Q2SkdGR3dONGllU0hNUHlEN0ZCdWxtWmpaZUp6T1BKRjZ1QWJpMEJvQ1M5Qzdnbks5V3NfYTRmcnpfNHdfcS14ZXJtXzFrREdrbkVtbVFrRFB4VWd5VzlSeVlEMEdR?oc=5"
+      },
+      "published_at": "2026-04-24T17:27:15+00:00",
+      "date_unknown": false,
+      "score": 0,
+      "score_reason": "",
+      "tags": [
+        "regulation",
+        "media"
+      ],
+      "weight": 0.7
+    },
+    {
+      "id": "cae8e3bf42ad",
+      "title": "Private credit won’t spark the next financial crisis",
+      "summary": "A lower leverage ratio and limited links to banks mean that the sector is unlikely to pose a systemic threat",
+      "source": {
+        "name": "FT",
+        "jurisdiction": "-",
+        "url": "https://www.ft.com/content/5e8c7a7e-d9be-43ce-be0d-cc92c4304fb1"
+      },
+      "published_at": "2026-04-24T17:00:03+00:00",
+      "date_unknown": false,
+      "score": 0,
+      "score_reason": "",
+      "tags": [
+        "finance",
+        "regulation",
+        "media"
+      ],
+      "weight": 0.7
+    }
+  ]
+}
