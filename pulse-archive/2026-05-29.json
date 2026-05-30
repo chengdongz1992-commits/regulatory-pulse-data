@@ -1,0 +1,200 @@
+{
+  "version": 2,
+  "generated_at": "2026-05-29T01:39:39.745864+00:00",
+  "window_days": 7,
+  "total_items": 10,
+  "opening": "",
+  "status": "enrichment_failed",
+  "items": [
+    {
+      "id": "7d78e2a0fc10",
+      "title": "Rare US core inflation 'wedge' a headache for Warsh's Fed - Reuters",
+      "summary": "Rare US core inflation 'wedge' a headache for Warsh's Fed Reuters",
+      "source": {
+        "name": "Reuters",
+        "jurisdiction": "-",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPLTA3b1h2NHlwcDA1bl9vWnpFem5YWURUVVNaUmY5VGZxNzZwc1p4QnhqZU1PLV9qc2tFRWVDV0lLTnJmbFppbVoyaHJ0bUE3cWc0V3E3NzlHTnZXLXdhNVVMdnFxUGNRcHZRUDF1OWNwcDBWMWc4UVNuSEFzYUFsOHFvaFRscnVWbEtZeHJrNzNyaXFadmctSTFKc2FMQVc5cFBXSDVuNFNhVkV6WjNkUy1TVmlvbHQy?oc=5"
+      },
+      "published_at": "2026-05-28T23:30:26+00:00",
+      "date_unknown": false,
+      "score": 0,
+      "score_reason": "",
+      "tags": [
+        "regulation",
+        "media"
+      ],
+      "weight": 0.7
+    },
+    {
+      "id": "0ee27d4c5476",
+      "title": "S&P 500 and Nasdaq hit record closing highs as US and Iran agree to extend ceasefire - Reuters",
+      "summary": "S&P 500 and Nasdaq hit record closing highs as US and Iran agree to extend ceasefire Reuters",
+      "source": {
+        "name": "Reuters",
+        "jurisdiction": "-",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZW5OZjgtYlBYcWVNMFJIbW5ab2Y0UldIWVFkU0VHekpyUkRCMW5HWGVqTEpuSHJJT2p3cEF0NlNUSUNCNmJOWDM3V21QQXQySVZGbFNtWjNid1BzVWw4YnNjV01MSVRxakhHSEJVaDVwWkV3Sko5alU3SW9sYlpuWl9QU1pqaXdQYlVvRkhBRkN4STIzRzVr?oc=5"
+      },
+      "published_at": "2026-05-28T23:11:49+00:00",
+      "date_unknown": false,
+      "score": 0,
+      "score_reason": "",
+      "tags": [
+        "regulation",
+        "media"
+      ],
+      "weight": 0.7
+    },
+    {
+      "id": "3705153c6ce3",
+      "title": "Carney seeks new US-Canada partnership as world undergoes 'rupture' - Reuters",
+      "summary": "Carney seeks new US-Canada partnership as world undergoes 'rupture' Reuters",
+      "source": {
+        "name": "Reuters",
+        "jurisdiction": "-",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObVl0bGdjd0dFclhfSll2T1FPQUVzQzNtbXdyZzRUaXpQSzhnR29obGlJbHhLeEpwRmNtX3BxMWtpQTlxNVk1ZEpDNmxSdExqa0ZpY1R5Q3FOeEdLc2dfbHFKcEc3M2piS1RZUDl6WVZFbldSZGxuMFk5R3J1bjV6TUQzNFlrdnhMQ3otZkE5dWZLNXpYWUtTMDNMd3NTVjdzUUk0QlRvWQ?oc=5"
+      },
+      "published_at": "2026-05-28T21:36:50+00:00",
+      "date_unknown": false,
+      "score": 0,
+      "score_reason": "",
+      "tags": [
+        "regulation",
+        "media"
+      ],
+      "weight": 0.7
+    },
+    {
+      "id": "c89ea0949a36",
+      "title": "US judge won't block Trump's mail-in voting executive order for now - Reuters",
+      "summary": "US judge won't block Trump's mail-in voting executive order for now Reuters",
+      "source": {
+        "name": "Reuters",
+        "jurisdiction": "-",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYUltbng0U2JsbFpON0MzTjFNMmZNdUNrNUVJVG1WS3NjVlJoYng2THFhYWk3Q0FheGtCYkpSZGwwRXB3RTk2SERuWEgySnNaQ1VvR18wY0xGVGEzNUFjbWFFX2dlUmJLRFhGYUxkejJHemlQUzNoclJkU3Q5T3JwOG93eWZidHZYdFJ4ZGZxRWxydkh5RmY4TWM3ZFczVjVYTTlpZzVBaGpFZDI3ZWozMTRB?oc=5"
+      },
+      "published_at": "2026-05-28T20:57:22+00:00",
+      "date_unknown": false,
+      "score": 0,
+      "score_reason": "",
+      "tags": [
+        "regulation",
+        "media"
+      ],
+      "weight": 0.7
+    },
+    {
+      "id": "6561294f5ee6",
+      "title": "Key US inflation measure posts largest annual increase in three years - Reuters",
+      "summary": "Key US inflation measure posts largest annual increase in three years Reuters",
+      "source": {
+        "name": "Reuters",
+        "jurisdiction": "-",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE42UDdTXzBaWFpQZFVPSzJ1cFJ5bXhVTE1vdlIzOHpWRHpoQzFKcDBodVNkd0tUanRkcTZGNUJpcXA3NXdFcFhYeGxEcDh1QlFHUGVGLUNjR0t3ODFtVFlkMjBRU0tWQmxqcFhyX2dVc05EYlJFS3lrYl9rTXpWUDg?oc=5"
+      },
+      "published_at": "2026-05-28T20:52:54+00:00",
+      "date_unknown": false,
+      "score": 0,
+      "score_reason": "",
+      "tags": [
+        "regulation",
+        "media"
+      ],
+      "weight": 0.7
+    },
+    {
+      "id": "af6871f7a89a",
+      "title": "UN chief eyes leadership cuts as part of reform push - Reuters",
+      "summary": "UN chief eyes leadership cuts as part of reform push Reuters",
+      "source": {
+        "name": "Reuters",
+        "jurisdiction": "-",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNem9ubHZ5WU1fRk5vNVh5cWxFaF9QOHJDQjZGTFllS1JSLXZNRUVNY1NJTS1SN3ZsQ0N5a21HTk11blpMaTlZSzQtOVgwWm1sX1BhOTIwTGxWMFdWMy11X05LU1YyN29tRnpNMGNrYVl3RWVJVWZldVNZZnJuVHhPaGZEQlpsTDJCSVVPVVE3VElfWFh0dEdHaFpn?oc=5"
+      },
+      "published_at": "2026-05-28T19:54:16+00:00",
+      "date_unknown": false,
+      "score": 0,
+      "score_reason": "",
+      "tags": [
+        "regulation",
+        "media"
+      ],
+      "weight": 0.7
+    },
+    {
+      "id": "25ae27372db5",
+      "title": "Fed policymakers eye rate hike scenarios as AI debate deepens - Reuters",
+      "summary": "Fed policymakers eye rate hike scenarios as AI debate deepens Reuters",
+      "source": {
+        "name": "Reuters",
+        "jurisdiction": "-",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQblFVMU5IQ2xKMEgtYVVVdk13akVfckV4QWFTeWo5QjdGSi1jU0tYMHM0MXVnTnJyeW9CbENwd2JneGNnSGctVk9OVG1DQ1Rac3NqanlFTUxjTVVCczNSeDdDdGg3aDA3SWp4WEcxNjBHbFVjSVYxZ0s5b2FiSGxFUVh2QlVhbUVsM2dLUnhmSzEwWS0zMnlmSUI1SFZPdDRzU1R5VkJXMUx6UkxvZUtxaVhkaw?oc=5"
+      },
+      "published_at": "2026-05-28T19:26:35+00:00",
+      "date_unknown": false,
+      "score": 0,
+      "score_reason": "",
+      "tags": [
+        "regulation",
+        "media"
+      ],
+      "weight": 0.7
+    },
+    {
+      "id": "478e0c4d930b",
+      "title": "Goldman Sachs says on track for near-record M&A volumes in 2026 - Reuters",
+      "summary": "Goldman Sachs says on track for near-record M&A volumes in 2026 Reuters",
+      "source": {
+        "name": "Reuters",
+        "jurisdiction": "-",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcXE2SDAyYlFZQThubUlDaG05bUl6TlpCekMwb1BUd2hCbHJNbElfNXFELUNRQUExNHpnMlNEWnN3VlVfaElYR0NHMlBMakRUSXFacVllcTBwRTZvTVhQdlk4d2ZoN3oycTc4am9VaE55WGpxeUw1S0pBaWlXZFFMVkJUSUx6R3ZEY3hDaFRFdUV2LXhaU0FZWTEyZkNlR3NxcDhsNXZCZlFzcVlq?oc=5"
+      },
+      "published_at": "2026-05-28T19:26:17+00:00",
+      "date_unknown": false,
+      "score": 0,
+      "score_reason": "",
+      "tags": [
+        "regulation",
+        "media"
+      ],
+      "weight": 0.7
+    },
+    {
+      "id": "0fa2b8a1ae00",
+      "title": "DOJ launches criminal probe into E. Jean Carroll, source says - Reuters",
+      "summary": "DOJ launches criminal probe into E. Jean Carroll, source says Reuters",
+      "source": {
+        "name": "Reuters",
+        "jurisdiction": "-",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMzZxOHNCZVp1dkczdUhTRUdveVpiU2xvRmo5M3pFZF82cVFGUldldG1ueVJHLWVQeTdZZmJZSEZJMFo3NjNPbXFXeVJqdG1XcG4wTEtyWHBpQnp0cEtuUGZzWW5uNTA4U1V2ZE1tZThZUU5mdjQtZzFHa0ctRzR4QVFmT2J4R0ZUTDlZUnhfYTB5djl0M2tfMWNTRTdNdmFtV011WFNtaml4U05IOVdsQ3Fn?oc=5"
+      },
+      "published_at": "2026-05-28T19:16:36+00:00",
+      "date_unknown": false,
+      "score": 0,
+      "score_reason": "",
+      "tags": [
+        "regulation",
+        "media"
+      ],
+      "weight": 0.7
+    },
+    {
+      "id": "3588e58b978c",
+      "title": "US, Mexico launch formal trade talks, haggle over automotive content rules - Reuters",
+      "summary": "US, Mexico launch formal trade talks, haggle over automotive content rules Reuters",
+      "source": {
+        "name": "Reuters",
+        "jurisdiction": "-",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUmhNcmk1MFNNRF8xd3o0UXF4a1VxYl9tcWRPZEU3ajBUZUFyNEJPWnZFUFhyTllYT21VZmdMcU1fQjV5c1ZxVFFva2EyaWRGcWVOb1BLLVBXVnBNVG1jcFJKUVVhTHU0Q2NocXFHUHJJMlZ2RTZrSVdxbVg3Zkw4QXcwUzUtSW84b1d0RlBtcFl6RnlQRmlwem1Hdkk3VXlWSjdfb0FkaFhZdGZVZnR1Y0swdFg5bjQ5ckpJRjlWM3U1WER5R2pYN0tfdFd1TG81YmtrbA?oc=5"
+      },
+      "published_at": "2026-05-28T18:07:06+00:00",
+      "date_unknown": false,
+      "score": 0,
+      "score_reason": "",
+      "tags": [
+        "regulation",
+        "media"
+      ],
+      "weight": 0.7
+    }
+  ]
+}
