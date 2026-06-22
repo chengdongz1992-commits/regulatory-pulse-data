@@ -1,0 +1,202 @@
+{
+  "version": 2,
+  "generated_at": "2026-06-21T01:30:15.676045+00:00",
+  "window_days": 7,
+  "total_items": 10,
+  "opening": "",
+  "status": "enrichment_failed",
+  "items": [
+    {
+      "id": "6f8b65469c75",
+      "title": "The GMTF presents its findings on EU gas and gas derivative markets",
+      "summary": "The GMTF presents its findings on EU gas and gas derivative markets 02 June 2026 Trading The Gas Market Task Force (GMTF), has published today a report on the functioning of EU gas and gas derivatives markets, summarising the analytical work it has conducted in 2025. The report also suggests further work in several areas to ensure that European gas and gas derivatives markets continue performin...",
+      "source": {
+        "name": "ESMA",
+        "jurisdiction": "EU",
+        "url": "https://www.esma.europa.eu/press-news/esma-news/gmtf-presents-its-findings-eu-gas-and-gas-derivative-markets"
+      },
+      "published_at": "2026-06-21T01:30:06.282546+00:00",
+      "date_unknown": true,
+      "score": 0,
+      "score_reason": "",
+      "tags": [
+        "securities",
+        "eu",
+        "mica"
+      ],
+      "weight": 1.2
+    },
+    {
+      "id": "fac851416906",
+      "title": "​Euribor panel to include KBC Bank​",
+      "summary": "​Euribor panel to include KBC Bank​ 11 June 2026 Benchmarks Press Releases On 27 May 2026, the European Money Markets Institute (EMMI), the administrator of Euribor, announced the inclusion of KBC Bank in the Euribor panel. ESMA and the Belgian Financial Services and Markets Authority (FSMA) welcome the inclusion of KBC Bank in the panel as a positive development that contributes to strengtheni...",
+      "source": {
+        "name": "ESMA",
+        "jurisdiction": "EU",
+        "url": "https://www.esma.europa.eu/press-news/esma-news/euribor-panel-include-kbc-bank"
+      },
+      "published_at": "2026-06-21T01:30:06.281805+00:00",
+      "date_unknown": true,
+      "score": 0,
+      "score_reason": "",
+      "tags": [
+        "securities",
+        "eu",
+        "mica"
+      ],
+      "weight": 1.2
+    },
+    {
+      "id": "e6a3fd7599dc",
+      "title": "Report says UK PM Starmer ready to quit, but source says he is still focused on the job - Reuters",
+      "summary": "Report says UK PM Starmer ready to quit, but source says he is still focused on the job Reuters",
+      "source": {
+        "name": "Reuters",
+        "jurisdiction": "-",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPREhONU9SaTJfdDI3cTdCRnVwcUtHRjhEVWdFRktCV1l3MXR6Z3FKRVU0TGZ3UlN0VFREY053a2FYQ3dQRmxsSE93QjRjVTVzTzBNOVQ2ZnZnY1NMUFh2ZTcxcW42Ui1rS3I4VHhCYk9FbXNnSWI4ckFSbW12QnBzY2s4WGRrS2tSNDMwM3RtbXV6TFVUTmZaaDcxMkk3Qk82V1N1eGFrS3JxRFpLMDFta2RrRzctNmJkdmtfMTJn?oc=5"
+      },
+      "published_at": "2026-06-20T23:06:29+00:00",
+      "date_unknown": false,
+      "score": 0,
+      "score_reason": "",
+      "tags": [
+        "regulation",
+        "media"
+      ],
+      "weight": 0.7
+    },
+    {
+      "id": "a028ab59d371",
+      "title": "Thousands rally in Serbia's north to demand early elections - Reuters",
+      "summary": "Thousands rally in Serbia's north to demand early elections Reuters",
+      "source": {
+        "name": "Reuters",
+        "jurisdiction": "-",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNS2h3OUJSaUFGbEhXblpmNTRIbUkyQkdUU2dIamtYclBfSlNMdmhjMDZ2VFJYLTdkYjJIY0p2UUJQRFNZbTdsRXBKOUJXcWE2bDRSeEJWZjVhcHNMV2RTd2JUR2JFUC1ncEhzX3I0ZGpOM1RyMGNEajNaZHlWb21yX2xhY3Q0cExPMEFlTFhrR2NURGZJbGc2Zmd3?oc=5"
+      },
+      "published_at": "2026-06-20T21:54:11+00:00",
+      "date_unknown": false,
+      "score": 0,
+      "score_reason": "",
+      "tags": [
+        "regulation",
+        "media"
+      ],
+      "weight": 0.7
+    },
+    {
+      "id": "17269a580a07",
+      "title": "Brobbey, Gakpo double delight as slick Netherlands dismantle Sweden - Reuters",
+      "summary": "Brobbey, Gakpo double delight as slick Netherlands dismantle Sweden Reuters",
+      "source": {
+        "name": "Reuters",
+        "jurisdiction": "-",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMk0yck5IWHo1ZlNEOUVoc2Zoam1BRjAyaGM2RnhLZzRzRDA5dk5uVXVmOXJsXzNWUU42V0V1UmpoUEFZZWlsVnRaYjBoeE9uSnVfcVlnVVBDTlE2NmdqVWV2Nkh2NnNpRDYzbzNuN1ZQMUJKdXRfeVZuYy1lN1lseldVT1laV0N0V1lFOWY3bw?oc=5"
+      },
+      "published_at": "2026-06-20T20:03:18+00:00",
+      "date_unknown": false,
+      "score": 0,
+      "score_reason": "",
+      "tags": [
+        "regulation",
+        "media"
+      ],
+      "weight": 0.7
+    },
+    {
+      "id": "bc359cb0bcad",
+      "title": "Trump says no toll on Strait of Hormuz unless US imposes one - Reuters",
+      "summary": "Trump says no toll on Strait of Hormuz unless US imposes one Reuters",
+      "source": {
+        "name": "Reuters",
+        "jurisdiction": "-",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcTlFTUJWal9HaWxJLTBvcWZDT1BnOGlTdGxOWWdzZWMtWlpsTXQ1V0NLVVFXY29oSGxwRVotLVFMU2ptbS11M21nM2pSdExIM1E3OTFSUTc0d0xqeEZCblZtb0VHOEpPWXhzN2NDc2hvXzZ3bGFZSHlKak9VeUVIcElMSk5IcXlfZlh1QTh5emxIT25yQVRMZ09GOHduTDFkVFRIWkZuaXZLZjNK?oc=5"
+      },
+      "published_at": "2026-06-20T20:01:43+00:00",
+      "date_unknown": false,
+      "score": 0,
+      "score_reason": "",
+      "tags": [
+        "regulation",
+        "media"
+      ],
+      "weight": 0.7
+    },
+    {
+      "id": "1a4266a8ca45",
+      "title": "Greece deploys firefighters, planes and helicopters to fight fire on Evia Island - Reuters",
+      "summary": "Greece deploys firefighters, planes and helicopters to fight fire on Evia Island Reuters",
+      "source": {
+        "name": "Reuters",
+        "jurisdiction": "-",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOV0F1OGJFY0NlWHd0RHM5QW9FU090UDBSZEF6aFdLcGNucm81QXBpaFBsMlZZTkhGMUpvUTFpcXVySldjLWdDQXVMZGswWjRkMkQzVlMzQUdmVm9hVmNrbk5WaDBkWjdxeVRtTzFaWkdTX2loejMxZUtQOHJpWnFxQ1NmMF9zSWdySTZEdnVVZXBGTnlBdVg1c292T1BXaXF5eW9OTHpIT0lLWmFEb09YVzFtbzJDRG1mYzZtanZvbG1xZGNl?oc=5"
+      },
+      "published_at": "2026-06-20T18:21:06+00:00",
+      "date_unknown": false,
+      "score": 0,
+      "score_reason": "",
+      "tags": [
+        "regulation",
+        "media"
+      ],
+      "weight": 0.7
+    },
+    {
+      "id": "8e395cee0531",
+      "title": "Ubisoft's co-founder Claude Guillemot dies in plane crash - Reuters",
+      "summary": "Ubisoft's co-founder Claude Guillemot dies in plane crash Reuters",
+      "source": {
+        "name": "Reuters",
+        "jurisdiction": "-",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNLUd5d0U4YnQ4U3B3Q0d1cGdzbGs1Vm9PUE5mTHFCVHNoOEx6ZE9jckVSVjZ0a2NKc1hwOF9vblVob2h4Wmtyb1BJSHFJVnYzMHExZjl0dUhfd2VnYzNTcDZpMnFsODY3VzZEc2V4SDdaSUNHSURjRkM5bndwU2xmR3J1b3BxY1N2eU1wYTN6ZmJ2THpzVGhGNEF4VQ?oc=5"
+      },
+      "published_at": "2026-06-20T18:13:25+00:00",
+      "date_unknown": false,
+      "score": 0,
+      "score_reason": "",
+      "tags": [
+        "regulation",
+        "media"
+      ],
+      "weight": 0.7
+    },
+    {
+      "id": "3c4783d15a41",
+      "title": "France bans alcohol consumption at music festivals under red heatwave alert - Reuters",
+      "summary": "France bans alcohol consumption at music festivals under red heatwave alert Reuters",
+      "source": {
+        "name": "Reuters",
+        "jurisdiction": "-",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcXJ5X0dYaVpjZWdRNXFLR25OQUxNbGRBbnl6bjNWcEY5bnY1bXZLY3JJZlV2eWRKRTJtN2wtQVFGRDNuSDdlWDQtTVVFZ3FtX2QxYlExNjFuSTh4NzZWUUg3WWFsMWNhMERUQzItRFBwc0pYaG9LOTM4Q1pFMTZsWjZ4b08zWEhyblJLTmJiX3d2bTF1LUJOMHZ2TDBVbTljTjF0TmZ5d2NMeXE5cHNkekhiUXk?oc=5"
+      },
+      "published_at": "2026-06-20T17:23:44+00:00",
+      "date_unknown": false,
+      "score": 0,
+      "score_reason": "",
+      "tags": [
+        "regulation",
+        "media"
+      ],
+      "weight": 0.7
+    },
+    {
+      "id": "2335cc954e9d",
+      "title": "Italy's Meloni tells Trump to focus on his own popularity as row rumbles on - Reuters",
+      "summary": "Italy's Meloni tells Trump to focus on his own popularity as row rumbles on Reuters",
+      "source": {
+        "name": "Reuters",
+        "jurisdiction": "-",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZGFwdGl0Q2V5UFJVUnEwYnlzTjhFOUEzSGhRU0JENTVqYlFISUpNQ3dHVFVzTUYxaG5XYjRsX1NVbGN5cHMydWVXMEJhQkFxRmJudWRreU41Tld4R1ZXRlhsSVF0QVlRRHJsaXE4a3A2NldMR1FYbFNRMXdNMFQ5eWhWUzhnSjVmYjNsa21yVlY3VDBXQ25fTU9sOEd3VmZNUmt2UEZoQl9YbzlpY3RmMjVwTk9laGtud096T1dR?oc=5"
+      },
+      "published_at": "2026-06-20T16:37:43+00:00",
+      "date_unknown": false,
+      "score": 0,
+      "score_reason": "",
+      "tags": [
+        "regulation",
+        "media"
+      ],
+      "weight": 0.7
+    }
+  ]
+}
